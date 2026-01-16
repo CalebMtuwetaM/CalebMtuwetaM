@@ -61,13 +61,13 @@ I design systems with **security embedded from architecture to deployment**.
 
 ## 📈 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=calebmtuweta&show_icons=true&theme=tokyonight)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=calebmtuweta&layout=compact&theme=tokyonight)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=CalebMtuwetaM&show_icons=true&theme=tokyonight)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=CalebMtuwetaM&layout=compact&theme=tokyonight)
 
 ---
 
 ## 🌐 Connect With Me
-- 💼 **LinkedIn:** *([add link](https://www.linkedin.com/in/caleb-mtuweta-495a03276/))*  
+- 💼 **LinkedIn:** *(https://www.linkedin.com/in/caleb-mtuweta-495a03276/)*  
 - 📧 **Email:** *(add email)*  
 
 ---
