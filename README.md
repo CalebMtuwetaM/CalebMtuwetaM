@@ -67,7 +67,7 @@ I design systems with **security embedded from architecture to deployment**.
 ---
 
 ## 🌐 Connect With Me
-- 💼 **LinkedIn:** *(add link)*  
+- 💼 **LinkedIn:** *([add link](https://www.linkedin.com/in/caleb-mtuweta-495a03276/))*  
 - 📧 **Email:** *(add email)*  
 
 ---
